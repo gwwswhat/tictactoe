@@ -1,4 +1,0 @@
-/data/data/com.termux/files/home/tictactoe/app/.cxx/Debug/1533h3p3/arm64-v8a/CMakeFiles/edit_cache.dir
-/data/data/com.termux/files/home/tictactoe/app/.cxx/Debug/1533h3p3/arm64-v8a/CMakeFiles/rebuild_cache.dir
-/data/data/com.termux/files/home/tictactoe/app/.cxx/Debug/1533h3p3/arm64-v8a/src/CMakeFiles/edit_cache.dir
-/data/data/com.termux/files/home/tictactoe/app/.cxx/Debug/1533h3p3/arm64-v8a/src/CMakeFiles/rebuild_cache.dir
