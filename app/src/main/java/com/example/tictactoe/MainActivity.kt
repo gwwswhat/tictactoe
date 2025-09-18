@@ -22,7 +22,7 @@ class MainActivity: ComponentActivity(){
 
 @Composable
 fun my_app(){
-	var text by remember { mutableStateOf("Hello World!") }
+	var text_state: MutableState<String> = remember { mutableStateOf("Hello World!") }
 	Column(
 		modifier = Modifier
 		  .fillMaxSize()
@@ -30,9 +30,9 @@ fun my_app(){
 		verticalArrangement = Arrangement.Center,
 		horizontalAlignment = Alignment.CenterHorizontally
 	){
-		Text(text = text, fontSize = 24.sp)
+		Text(text = text_state.value, fontSize = 24.sp)
 		Spacer(modifier = Modifier.height(20.dp))
-		Button(onClick = { text = "You really clicked huh?" } ){
+		Button(onClick = { text_state.value = "You really clicked huh?" } ){
 			Text("Click me!")
 		}
 	}
