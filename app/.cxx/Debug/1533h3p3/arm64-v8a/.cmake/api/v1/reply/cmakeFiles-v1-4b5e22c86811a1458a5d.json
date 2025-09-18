@@ -1,0 +1,196 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/data/data/com.termux/files/home/tictactoe/app/.cxx/Debug/1533h3p3/arm64-v8a/CMakeFiles/3.30.5/CMakeSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/ndk/27.1.12297006/build/cmake/android.toolchain.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/ndk/27.1.12297006/build/cmake/android-legacy.toolchain.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/ndk/27.1.12297006/build/cmake/abis.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/ndk/27.1.12297006/build/cmake/platforms.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/Platform/Android-Initialize.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/ndk/27.1.12297006/build/cmake/hooks/pre/Android-Initialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/Platform/Linux-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/data/data/com.termux/files/home/tictactoe/app/.cxx/Debug/1533h3p3/arm64-v8a/CMakeFiles/3.30.5/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/data/data/com.termux/files/home/tictactoe/app/.cxx/Debug/1533h3p3/arm64-v8a/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/Platform/Android.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/ndk/27.1.12297006/build/cmake/hooks/pre/Android.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/Compiler/Clang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/Platform/Android-Clang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/Platform/Android-Clang.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/ndk/27.1.12297006/build/cmake/hooks/pre/Android-Clang.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/ndk/27.1.12297006/build/cmake/flags.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/Compiler/Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/Platform/Android-Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/Platform/Android-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/data/data/com.termux/files/home/android-sdk/cmake/3.22.1/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "src/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/data/data/com.termux/files/home/tictactoe/app/.cxx/Debug/1533h3p3/arm64-v8a",
+		"source" : "/data/data/com.termux/files/home/tictactoe/app/jni"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

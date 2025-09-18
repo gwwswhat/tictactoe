@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/data/data/com.termux/files/home/tictactoe/app/.cxx/Debug/1533h3p3/arm64-v8a",
+  "command": "/data/data/com.termux/files/home/android-sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=aarch64-none-linux-android21 --sysroot=/data/data/com.termux/files/home/android-sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dmain_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o src/CMakeFiles/main.dir/main.c.o -c /data/data/com.termux/files/home/tictactoe/app/jni/src/main.c",
+  "file": "/data/data/com.termux/files/home/tictactoe/app/jni/src/main.c",
+  "output": "src/CMakeFiles/main.dir/main.c.o"
+}
+]

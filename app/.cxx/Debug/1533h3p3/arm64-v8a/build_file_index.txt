@@ -1,0 +1,2 @@
+/data/data/com.termux/files/home/tictactoe/app/jni/CMakeLists.txt
+/data/data/com.termux/files/home/tictactoe/app/jni/src/CMakeLists.txt
