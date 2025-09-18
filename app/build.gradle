@@ -22,6 +22,9 @@ android {
 			}
 		}
 	}
+	kotlin {
+	  jvmToolchain(17)
+	}
 	buildTypes {
 		release {
 			minifyEnabled false
